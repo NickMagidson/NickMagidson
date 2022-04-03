@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm a self taught Front-End Developer living in Pennsylvania.
+I'm a self taught Front-End Developer living in Pennsylvania.<br />
 NOW
 :milky_way: Currently looking for work <br />
 :ringed_planet: Always learning <br />
