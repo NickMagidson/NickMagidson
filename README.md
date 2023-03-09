@@ -1,9 +1,5 @@
 ## :crescent_moon: Hey there! I'm Nick
 
-I'm an independent Frontend Developer thata enjoys building things
-
-If you are interested in my qualifications and experience, drop a line below!
-
 :mailbox: **[Email](nickmagidson@gmail.com)**
 
 :globe_with_meridians: **[Website](https://www.nickmagidson.com)**
