@@ -1,5 +1,9 @@
 ## :crescent_moon: Hey there! I'm Nick
 
+I started my coding journey back in August 2021. After many projects, bugs, frustrations, and successes, I have acquired a comprehensive understanding of HTML, CSS, JavaScript, and React. I'm actively seeking opportunites to join a dynamic team and make meaningful contributions to innovative projects.
+
+If you're interested in my qualifications and experience, I'd love to chat!
+
 :mailbox: **[Email](nickmagidson@gmail.com)**
 
 :globe_with_meridians: **[Website](https://www.nickmagidson.com)**
