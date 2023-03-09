@@ -1,10 +1,12 @@
 ## :crescent_moon: Hey there! I'm Nick
 
-I'm a Frontend Developer 
+I'm an independent Frontend Developer thata enjoys building things
+
+If you are interested in my qualifications and experience, drop a line below!
+
+:mailbox: **[Email](nickmagidson@gmail.com)**
 
 :globe_with_meridians: **[Website](https://www.nickmagidson.com)**
-
-:mailbox: nickmagidson@gmail.com
 
 ### Languages and Tools
 
@@ -16,7 +18,7 @@ I'm a Frontend Developer
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
 ![webpack](https://img.shields.io/badge/-webpack-333?style=flat-square&logo=webpack)
-![npm](https://img.shields.io/badge/-npm-333?style=flat-square&logo=npm)
+![npm](https://img.shields.io/badge/-npm-333?style=flat-square&logo=npm)<br>
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
 ![Figma](https://img.shields.io/badge/-Figma-333?style=flat-square&logo=figma)
 
