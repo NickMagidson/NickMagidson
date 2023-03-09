@@ -4,7 +4,7 @@ I started my coding journey back in August 2021. After many projects, bugs, frus
 
 If you're interested in my qualifications and experience, I'd love to chat!
 
-:mailbox: **[Email](nickmagidson@gmail.com)**
+:mailbox: **[Email](mailto:nickmagidson@gmail.com)**
 
 :globe_with_meridians: **[Website](https://www.nickmagidson.com)**
 
