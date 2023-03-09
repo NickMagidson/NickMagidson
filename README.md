@@ -1,6 +1,6 @@
 ## :crescent_moon: Hey there! I'm Nick
 
-
+I'm a Frontend Developer 
 
 :globe_with_meridians: **[Website](https://www.nickmagidson.com)**
 
@@ -14,7 +14,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat-square&logo=tailwind-css&logoColor=06b6d4)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)<br>
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)<br>
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)
 ![webpack](https://img.shields.io/badge/-webpack-333?style=flat-square&logo=webpack)
 ![npm](https://img.shields.io/badge/-npm-333?style=flat-square&logo=npm)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333?style=flat-square&logo=visual-studio-code&logoColor=0078d7)
