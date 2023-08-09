@@ -4,9 +4,10 @@ I started my coding journey back in August 2020. After many projects, bugs, frus
 
 If you're interested in my qualifications and experience, I'd love to chat!
 
-:mailbox: **[Email](mailto:nickmagidson@gmail.com)**
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%94%97-LinkedIn-blue)](https://www.linkedin.com/in/nick-magidson/)
+[![Website](https://img.shields.io/badge/%F0%9F%91%94-Personal%20Website-blue)](https://www.nickmagidson.com)
 
-:globe_with_meridians: **[Website](https://www.nickmagidson.com)**
+
 
 ### Languages and Tools
 
