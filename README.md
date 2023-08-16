@@ -1,6 +1,6 @@
 ## Hey there! I'm Nick :crescent_moon:
 
-A Frontend Engineer based out of Philadelphia, PA. I'm actively seeking opportunities to join a dynamic team and make meaningful contributions to innovative projects. Outside of the coding world, you can find me writing music and collecting way too many plants. 
+A Front-end Software Engineer based out of Philadelphia, PA. I'm actively seeking opportunities to join a dynamic team and make meaningful contributions to innovative projects. Outside of the coding world, you can find me writing music and collecting way too many plants. 
 
 If you're interested in my qualifications and experience, I'd love to chat!
 
