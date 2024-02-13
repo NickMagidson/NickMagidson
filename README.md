@@ -16,6 +16,6 @@ I love building things and solving problems. Check out my [website](https://nick
 - :dragon: Learning networking and brushing up on backend concepts.
 
 ## 📫 Contact
-For a quick DM, message me on [LinkedIn](https://www.linkedin.com/in/nick-magidson/)
+For a quick DM, message me on [LinkedIn](https://www.linkedin.com/in/nick-magidson/).
 
-For professional inquiries, email me at nickmagidson@gmail.com
+For professional inquiries, email me at nickmagidson@gmail.com.
