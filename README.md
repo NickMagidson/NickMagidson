@@ -11,7 +11,7 @@ I love building things and solving problems. Check out my [website](https://nick
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## :ringed_planet: What I'm currently doing
-- :computer: Working full-time at Auditocity.
+- :computer: Working with Urality
 - :earth_americas: Developing my project [Aero](https://aero-dashboard.netlify.app/) and making it open source.
 - :dragon: Learning networking and brushing up on backend concepts.
 
