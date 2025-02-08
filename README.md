@@ -12,7 +12,7 @@ I love building things and solving problems. Check out my [website](https://nick
 
 ## :ringed_planet: What I'm currently doing
 - 💻: Working with Urality
-- 🛰️: Building a satellite tracker aka [Project: Lynx]([https://aero-dashboard.netlify.app/](https://project-lynx.netlify.app/))
+- 🛰️: Building a satellite tracker _aka_ [Project: Lynx](https://project-lynx.netlify.app/)
 - 🌎: Learning back-end to become full-stack
 
 ## 📫 Contact
