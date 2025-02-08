@@ -12,8 +12,8 @@ I love building things and solving problems. Check out my [website](https://nick
 
 ## :ringed_planet: What I'm currently doing
 - :computer: Working with Urality
-- :earth_americas: Developing my project [Aero](https://aero-dashboard.netlify.app/) and making it open source.
-- :dragon: Learning networking and brushing up on backend concepts.
+- :earth_americas: Building a satellite tracker aka [Project: Lynx]([https://aero-dashboard.netlify.app/](https://project-lynx.netlify.app/))
+- :dragon: Learning back-end to become full-stack
 
 ## 📫 Contact
 For a quick DM, message me on [LinkedIn](https://www.linkedin.com/in/nick-magidson/).
