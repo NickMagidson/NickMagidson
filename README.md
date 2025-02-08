@@ -11,9 +11,9 @@ I love building things and solving problems. Check out my [website](https://nick
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## :ringed_planet: What I'm currently doing
-- :computer: Working with Urality
-- :earth_americas: Building a satellite tracker aka [Project: Lynx]([https://aero-dashboard.netlify.app/](https://project-lynx.netlify.app/))
-- :dragon: Learning back-end to become full-stack
+- 💻: Working with Urality
+- 🛰️: Building a satellite tracker aka [Project: Lynx]([https://aero-dashboard.netlify.app/](https://project-lynx.netlify.app/))
+- 🌎: Learning back-end to become full-stack
 
 ## 📫 Contact
 For a quick DM, message me on [LinkedIn](https://www.linkedin.com/in/nick-magidson/).
