@@ -1,21 +1,7 @@
-<h1>Hey there! I'm Nick :crescent_moon:</h1>
+<h1>Hey there! :crescent_moon:</h1>
 
-<b>A Frontend Engineer based out of Philadelphia, PA with 4 years of experience.</b> 
+<b>I'm [Nick](https://www.nickmagidson.com/), a Frontend Engineer based out of Philadelphia, PA.</b> 
 
-I love building things and solving problems. Check out my [website](https://nickmagidson.com/).
+I have a heavy focus in React and Next.js. Other than that, I love diving into DevOps, LLMs, geospatial applications, and space data.
 
-
-## My favorite tools are -
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-## :ringed_planet: What I'm currently doing
-- 💻: Working with Urality
-- 🛰️: Building a satellite tracker _aka_ [Project: Lynx](https://project-lynx.netlify.app/)
-- 🌎: Learning back-end to become full-stack
-
-## 📫 Contact
-For a quick DM, message me on [LinkedIn](https://www.linkedin.com/in/nick-magidson/).
-
-For professional inquiries, email me at nickmagidson@gmail.com.
+When I'm not writing code, you'll probably find me writing music, exploring new coffee shops, and collecting way too many planets.
